@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nirala-noir
+- 👋 Hi, I’m RAMAN KUMAR NIRALA @nirala-noir
 - 👀 I’m interested in C++ Programming > Machine -Learning(real-life projects) > Web-Development(full-stack).
 - 🌱 I’m currently learning android - development.
 - 🌱 I’ve used tools vs-stdio, anaconda, xampp, pycharm, etc.
