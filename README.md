@@ -1,5 +1,5 @@
 - 👋 Hi, I’m RAMAN KUMAR NIRALA @nirala-noir
-- 👀 I’m interested in C++ Programming > Machine -Learning(real-life projects) > Web-Development(full-stack).
+- 👀 I’m interested in C++ Programming > Machine -Learning(real-life projects) > Web-Development(MERN).
 - 🌱 I’m currently learning android - development.
 - 🌱 I’ve used tools vs-studio, anaconda, xampp, pycharm etc.
 - 💞️ I’m looking to collaborate on STARTUPS who is solving real life project with minimum cost.
