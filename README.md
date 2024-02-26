@@ -4,7 +4,7 @@
 - 🌱 I’ve used tools Intellij, vs-studio, anaconda, xampp, pycharm, etc.
 - 💞️ I’m looking to collaborate on STARTUPS which is solving real-life projects.
 - 📫 How to reach me ... you'll find a way.
--![NIRALA's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirala-noir&show_icons=true&theme=dracula)
+- ![NIRALA's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirala-noir&show_icons=true&theme=dracula)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirala-noir&exclude_repo=github-readme-stats,nirala-noir.github.io)](https://github.com/nirala-noir/github-readme-stats)
 
 
